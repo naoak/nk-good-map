@@ -6,5 +6,6 @@
     "Keanu Lee"
   ],
   "description": "A simple custom element wrapper for Google Maps JavaScript API",
-  "license": "MIT"
+  "license": "MIT",
+  "version": "1.0.0"
 }
