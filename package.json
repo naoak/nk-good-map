@@ -8,5 +8,5 @@
   ],
   "description": "A simple custom element wrapper for Google Maps JavaScript API",
   "license": "MIT",
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
