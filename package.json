@@ -1,9 +1,10 @@
 {
-  "name": "good-map",
-  "main": "good-map.js",
-  "homepage": "https://github.com/keanulee/good-map",
+  "name": "nk-good-map",
+  "main": "nk-good-map.js",
+  "homepage": "https://github.com/naok/nk-good-map",
   "authors": [
-    "Keanu Lee"
+    "Keanu Lee",
+    "Naoaki Yamada"
   ],
   "description": "A simple custom element wrapper for Google Maps JavaScript API",
   "license": "MIT",

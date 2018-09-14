@@ -22,7 +22,7 @@
     return dash.indexOf('-') < 0 ? dash : dash.replace(/-[a-z]/g, (m) => m[1].toUpperCase());
   }
 
-  customElements.define('good-map', class extends HTMLElement {
+  customElements.define('nk-good-map', class extends HTMLElement {
     static get observedAttributes() {
       return ['api-key', 'language', 'region', 'zoom', 'latitude', 'longitude', 'map-options'];
     }
