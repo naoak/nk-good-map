@@ -1,12 +1,16 @@
 {
   "name": "nk-good-map",
-  "main": "nk-good-map.js",
+  "version": "1.0.1",
+  "description": "A simple custom element wrapper for Google Maps JavaScript API",
   "homepage": "https://github.com/naok/nk-good-map",
+  "license": "MIT",
   "authors": [
     "Keanu Lee",
     "Naoaki Yamada"
   ],
-  "description": "A simple custom element wrapper for Google Maps JavaScript API",
-  "license": "MIT",
-  "version": "1.0.1"
+  "main": "nk-good-map.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/naoak/nk-good-map.git"
+  }
 }
