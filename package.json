@@ -1,6 +1,6 @@
 {
   "name": "nk-good-map",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple custom element wrapper for Google Maps JavaScript API",
   "homepage": "https://github.com/naok/nk-good-map",
   "license": "MIT",
